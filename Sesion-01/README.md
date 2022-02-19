@@ -1,4 +1,4 @@
-# Sesión 01: Introduction to testing
+# Sesión 01: Introduction to Java testing
 ## :dart: Objetivos
 
 - Demostrar el porqué y para qué probamos el software
