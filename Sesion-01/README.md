@@ -3,6 +3,7 @@
 
 - Demostrar el porqué y para qué probamos el software
 - Identificar las diferentes etapas del testing en el ciclo de desarrollo de software
+- Identificar lo factores de porqué utilizar Java como herramienta para el testing
 - Aplicar los diferentes tipos de pruebas
 - Elaborar pruebas aplicando técnicas básicas
 
