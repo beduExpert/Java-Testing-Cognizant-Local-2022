@@ -42,7 +42,7 @@ agendar entrevistas.
 
 ## :bookmark_tabs: Sesiones
 
-- [`Sesión 01:` Introduction to testing](./Sesion-01)
+- [`Sesión 01:` Introduction to Java testing](./Sesion-01)
 - [`Sesión 02:` Unit Testing in Java](./Sesion-02)
 - [`Sesión 03:` JUnit & TestNG](./Sesion-03)
 - [`Sesión 04:` Black and White Box Testing](./Sesion-04)
