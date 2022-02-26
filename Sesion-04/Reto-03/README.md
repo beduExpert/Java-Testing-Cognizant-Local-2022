@@ -47,8 +47,8 @@ public class TestSample2 {
   - Obtener el elemento `input` utilizando su id
   - Añadir tu nombre al `input` (puede utilizar el metodo `sendKeys`)
   - Obtener el elemento `button` utilizando su id
-  - Da click en el elemento `button`
-  - Cierra el navegador
+  - Dar click en el elemento `button`
+  - Cerrar el navegador
 
 <details>
   <summary>Solución</summary>
