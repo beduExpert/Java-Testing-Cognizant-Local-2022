@@ -117,4 +117,9 @@ public class TestSample  {
 
 ```
 
-Y procedemos a ejecutralo. Una nueva ventana del navegador debe de aparecer, ir a Google, realizar la busqueda y cerrar el navegador.
+En este caso utilizamos el selector `findElement(By.name("q"))`, dado que el input tiene este nombre, coo podemos observar si inspeccionamos el HTML de la misma.
+
+![imagen](https://user-images.githubusercontent.com/5317347/155852200-69545a44-de1c-492f-8b42-fe16bcf7a502.png)
+
+
+Procedemos a ejecutarlo. Una nueva ventana del navegador debe de aparecer, ir a Google, realizar la busqueda y cerrar el navegador.
