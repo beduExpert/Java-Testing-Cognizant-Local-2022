@@ -33,6 +33,7 @@
     - [Reto 02: Pruebas con técnicas de caja negra](./Reto-02)
 - [Ejemplo 03: Técnicas de caja blanca](./Ejemplo-03)
 - [Ejemplo 04: Selenium](./Ejemplo-04)
+    - [Reto 03: Entrada de teclado y mouse](./Reto-03)
 - [Postwork](./Postwork)
 
 
