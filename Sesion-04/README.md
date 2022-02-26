@@ -1,4 +1,4 @@
-# Sesión 4: Black and White Box Testing
+# Sesión 4: Automation with Selenium and Black and White Box Testing
 
 ## :dart: Objetivos
 
