@@ -28,7 +28,7 @@ A continuación procederemos a descargar el driver de selenium correspondiente a
 
 Iniciaremos un nuevo proyeto con Maven como manejador. Nuestro archivo `pom` contendra las siguientes dependencias
 
-```
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
@@ -83,7 +83,7 @@ Iniciaremos un nuevo proyeto con Maven como manejador. Nuestro archivo `pom` con
 ```
 Creamos un archivo de test con el siguiente contenido:
 
-```
+```java
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
