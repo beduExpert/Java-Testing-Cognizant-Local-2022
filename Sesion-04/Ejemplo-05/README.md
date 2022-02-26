@@ -68,3 +68,33 @@ En Selenium Webdriver, los selectores como XPath, CSS, etc. se utilizan para ide
 En caso de que estos selectores no funcionen, puedes usar JavaScriptExecutor. Puedes usar JavaScriptExecutor para realizar una operación deseada en un elemento web.
 
 Selenium es compatible con javaScriptExecutor. No hay necesidad de un plugin adicional. Solo necesitas importar (`org.openqa.selenium.JavascriptExecutor`) en el script para usar JavaScriptExecutor.
+
+##### Métodos
+
+**executeAsyncScript**
+
+Con `executeAsyncScript`, la página se procesa más rápidamente. En lugar de obligar a los usuarios a esperar a que se descargue un script antes de que se muestre la página. Esta función ejecutará una pieza asincrónica de JavaScript en el contexto del frame o ventana actualmente seleccionado en Selenium. El JS así ejecutado es de un solo subproceso con varias funciones de devolución de llamada que se ejecutan de forma síncrona.
+
+**executeScript**
+
+Este método ejecuta JavaScript en el contexto del frame o ventana seleccionado actualmente en Selenium. El script utilizado en este método se ejecuta en el cuerpo de una función anónima (una función sin nombre). También podemos pasarle argumentos complicados.
+
+El script puede devolver valores. Los tipos de datos devueltos son
+
+     booleano
+     Long
+     String
+     Lista
+     WebElement.
+
+La sintaxis básica para JavascriptExecutor es la siguiente:
+
+```java
+
+JavascriptExecutor js = (JavascriptExecutor) driver;  
+js.executeScript(Script,Arguments);
+```
+
+Donde:
+- Script es el códgio JavaScript a ejecutra
+- Arguments son los parametros para el script, este parametro es opcional
