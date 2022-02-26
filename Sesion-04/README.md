@@ -7,6 +7,7 @@
 - Comparar y distinguir las diferencias entre black box y white box testing
 - Implementar pruebas de caja negra
 - Implementar pruebas de caja blanca
+- Implementar pruebas con Selenium
 
 ## ⚙ Requisitos
 
@@ -22,6 +23,7 @@
   - Gradle 7+
 - Frameworks de pruebas
   - Junit 5.7.x
+  - Selenium
 
 ## 📂 Organización de la clase
 
@@ -30,6 +32,7 @@
 - [Ejemplo 02: Técnicas de caja negra](./Ejemplo-02)
     - [Reto 02: Pruebas con técnicas de caja negra](./Reto-02)
 - [Ejemplo 03: Técnicas de caja blanca](./Ejemplo-03)
+- [Ejemplo 04: Selenium](./Ejemplo-04)
 - [Postwork](./Postwork)
 
 
