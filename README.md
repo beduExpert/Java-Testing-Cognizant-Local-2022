@@ -45,7 +45,7 @@ agendar entrevistas.
 - [`Sesión 01:` Introduction to Java testing](./Sesion-01)
 - [`Sesión 02:` Unit Testing in Java](./Sesion-02)
 - [`Sesión 03:` JUnit & TestNG](./Sesion-03)
-- [`Sesión 04:` Black and White Box Testing](./Sesion-04)
+- [`Sesión 04:` Automation with Selenium and Black and White Box Testing](./Sesion-04)
 - [`Sesión 05:` Mockito tool](./Sesion-05)
 - [`Sesión 06:` Test Driven Development](./Sesion-06)
 - [`Sesión 07:` Test Quality](./Sesion-07)
