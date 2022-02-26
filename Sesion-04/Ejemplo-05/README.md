@@ -98,3 +98,40 @@ js.executeScript(Script,Arguments);
 Donde:
 - Script es el códgio JavaScript a ejecutra
 - Arguments son los parametros para el script, este parametro es opcional
+
+
+
+#### Utilizando JavaScriptExecutor
+
+En este ejemplo utilizaremos la siguiente [página](http://formy-project.herokuapp.com/modal) que contiene un modal
+
+```java
+
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.By;
+
+public class TestSample04 {
+    public static void main(String[] args) {
+
+        System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
+
+        WebDriver driver = new ChromeDriver();
+
+        driver.get("https://formy-project.herokuapp.com/modal");
+
+        WebElement modalButton = driver.findElement(By.id("modal-button"));
+        modalButton.click();
+
+        WebElement closeButton = driver.findElement(By.id("close-button"));
+        JavascriptExecutor js = (JavascriptExecutor)driver;
+        js.executeScript("arguments[0].click();", closeButton);
+
+        driver.quit();
+    }
+}
+
+
+```
