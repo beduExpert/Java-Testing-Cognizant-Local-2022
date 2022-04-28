@@ -24,7 +24,6 @@ El project manager ha definido como objetivo para este sprint realizar las prueb
 - Gradle
 - JUnit
 - Code with me
-- Una cuenta de GitHub
 
 ## Desarrollo
 
@@ -32,7 +31,7 @@ El project manager ha definido como objetivo para este sprint realizar las prueb
 - 
 - Se deben incluir todas las pruebas de esta funcionalidad
 - Utilizando Code with me o Visual Studio Live Share trabajar de forma colaborativa
-- Hacer push de sus cambios a su repositorio
+- Compartir con los demás integrantes del equipo el código
 
 <details>
   <summary>Solución</summary>
