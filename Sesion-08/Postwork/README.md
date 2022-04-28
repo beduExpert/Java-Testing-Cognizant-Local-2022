@@ -24,7 +24,6 @@ Adicionalmente tendrás que ejecutar un análisis estático a tu código con Son
 
 4. Ejecutar un análisis de SonarQube a nuestro código.
 
-5. Desplegar esta aplicación y la API a Heroku.
 
 ### Indicaciones generales
 
