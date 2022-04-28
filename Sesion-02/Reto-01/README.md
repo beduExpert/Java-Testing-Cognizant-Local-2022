@@ -24,7 +24,6 @@ El project manager ha definido como objetivo para este sprint añadir las siguie
 - Gradle
 - JUnit
 - Code with me
-- Una cuenta de GitHub
 
 ## Desarrollo
 
@@ -33,7 +32,7 @@ El project manager ha definido como objetivo para este sprint añadir las siguie
 - Añadir una opción en nuestro menu que permita eliminar entrevistadores
 - Se deben incluir pruebas de esta funcionalidad
 - Utilizando Code with me o Visual Studio Live Share trabajar de forma colaborativa en los requerimientos dados
-- Hacer push de sus cambios a su repositorio
+- Compartir con los demás integrantes del equipo el código
 
 
 <details>
