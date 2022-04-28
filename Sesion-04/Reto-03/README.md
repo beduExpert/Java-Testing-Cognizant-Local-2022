@@ -13,7 +13,6 @@ Automatizar la interacción del teclado y mouse con una página web
 - JUnit
 - Selenium
 - Code with me
-- Una cuenta de GitHub
 
 ## Desarrollo
 
