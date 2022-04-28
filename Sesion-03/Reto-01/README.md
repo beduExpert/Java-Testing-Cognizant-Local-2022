@@ -96,7 +96,7 @@ repositories {
 dependencies {
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.1'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.1'
-    testImplementation("org.junit.jupiter:junit-jupiter-params:5.8.1")
+    testImplementation 'org.junit.jupiter:junit-jupiter-params:5.8.1'
 }
 
 test {
@@ -145,7 +145,7 @@ class CalculatorTest {
     }
 
 
-    // To run this we need to include the following dependency: testCompile("org.junit.jupiter:junit-jupiter-params:5.8.1")
+    // To run this we need to include the following dependency: testImplementation 'org.junit.jupiter:junit-jupiter-params:5.8.1'
     @ParameterizedTest
     @CsvSource({"1,1", "0,0", "5,3"})
     void returns_the_sum_of_two_numbers(int n1, int n2) {
