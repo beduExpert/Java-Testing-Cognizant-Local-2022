@@ -12,7 +12,6 @@
 - Gradle
 - JUnit
 - Code with me
-- Una cuenta de GitHub
 
 ## Desarrollo
 
