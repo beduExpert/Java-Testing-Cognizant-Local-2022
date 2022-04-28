@@ -12,7 +12,6 @@
 - JUnit
 - JUnit 5
 - Code with me
-- Una cuenta de GitHub
 
 ## Desarrollo
 
@@ -29,7 +28,7 @@ public class Calculator {
     public int multiply(int a, int b) {
         int result = 0;
         for (int i = 0; i < b; i++) {
-            result += add(result,a);
+            result = add(result,a);
         }
         return result;
     }
