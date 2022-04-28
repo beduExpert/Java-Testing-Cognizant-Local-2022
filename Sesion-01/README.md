@@ -15,9 +15,6 @@
   - IntelliJ IDEA
 - Programación colaborativa
   - Code with me
-- Control de versiones.
-  - Git
-  - Tener una cuenta de GitHub
 - Entorno de desarrollo de Java. 
   - Java JDK 8+ 
   - Gradle 7+
