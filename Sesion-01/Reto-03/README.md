@@ -20,7 +20,6 @@ El project manager ha definido como objetivo para este sprint añadir las siguie
 - Gradle
 - JUnit
 - Code with me
-- Una cuenta de GitHub
 
 
 ## Desarrollo
@@ -30,7 +29,7 @@ El project manager ha definido como objetivo para este sprint añadir las siguie
 - Añadir al código la persistencia de datos
 - Se deben incluir pruebas de esta funcionalidad
 - Utilizando Code with me o Visual Studio Live Share trabajar de forma colaborativa
-- Hacer push de sus cambios a su repositorio
+- Compartir con los demás integrantes del equipo el código
 
 
 <details>
