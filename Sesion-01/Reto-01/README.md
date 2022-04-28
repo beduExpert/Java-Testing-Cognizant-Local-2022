@@ -26,7 +26,6 @@ características:
 - Java
 - Gradle
 - Code with me
-- Una cuenta de GitHub
 
 ## Desarrollo
 
