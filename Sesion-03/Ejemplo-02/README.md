@@ -12,7 +12,6 @@
 - JUnit
 - JUnit 5
 - Code with me
-- Una cuenta de GitHub
 
 ## Desarrollo
 
