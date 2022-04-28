@@ -34,7 +34,7 @@ características:
 - Durante el curso utilizaremos gradle, por lo que te recomendamos crear el proyecto usando gradle
 - Utilizando Code with me o Visual Studio Live Share trabajar de forma colaborativa en los requerimientos dados
 - Compartir con los demás integrantes del equipo el código
-- Todos los integrantes del equipo deberan con los archivos en su computadora
+- Todos los integrantes del equipo deberan contar con el código en su computadora
 
 <details>
   <summary>Solución</summary>
